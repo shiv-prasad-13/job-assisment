@@ -162,14 +162,14 @@ nav{
 }
 .boxes div{
     border-radius: 1vw;
-    height: 8vw;
+    height: 10vw;
     width: 17.1vw;
     border: 0.01px solid rgb(206, 206, 206);
     box-shadow: 1px 2px 5px gray;
     /* border: none; */
 }
 .boxes h3{
-    margin-top: 5vw;
+    margin-top: 7vw;
     margin-left: 1vw;
     color: white;
 }
@@ -227,7 +227,7 @@ nav{
 }
 .speaker{
     padding: 0vw 13vw;
-    margin-top: 3vw;
+    margin-top: 5vw;
 }
 .speaker p{
     font-size: var(--p);
@@ -258,7 +258,7 @@ nav{
 /* register section */
 
 .register{
-    margin-top: 3vw;
+    margin-top: 5vw;
     height: 30vw;
     width: 100vw;
     background: linear-gradient(to right,rgb(143, 191, 88),rgb(12, 118, 160));
@@ -362,7 +362,6 @@ nav{
 
 /* areas links */
 .area{
-    margin-top: 2vw;
     padding: 2vw 13.5vw;
     display: flex;
     justify-content:space-between;
