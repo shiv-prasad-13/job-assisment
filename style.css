@@ -173,6 +173,16 @@ nav{
     margin-left: 1vw;
     color: white;
 }
+.box1 button{
+    position: absolute;
+    padding: 1vw;
+    font-size: 2rem;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid rgb(208, 208, 208);
+    left:12vw;
+    color: rgb(19, 160, 207);
+}
 .box1{
     background: linear-gradient(to right, rgb(64, 234, 161),rgb(3, 109, 81));
 }
@@ -250,6 +260,30 @@ nav{
     width: 17vw;
     border-radius: 1vw 1vw 0.5vw 0.5vw;
     
+}
+.box13{
+    border-radius: 1vw;
+    height: 14vw;
+    width: 17.5vw;
+    border: 0.01px solid rgb(206, 206, 206);
+    box-shadow: 1px 2px 5px gray;
+}
+.box13 img{
+    height:10vw;
+    width: 17vw;
+    border-radius: 1vw 1vw 0.5vw 0.5vw;
+    
+}
+.box13 button{
+    position: absolute;
+    padding: 1vw;
+    font-size: 2rem;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid rgb(208, 208, 208);
+    right:11vw;
+    top:67vw;
+    color: rgb(19, 160, 207);
 }
 
 
